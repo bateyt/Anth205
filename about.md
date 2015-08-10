@@ -4,8 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+#### About me...
+Hello, my name is Trey Batey. I am a biological anthropologist---specializations in bioarchaeology and forensic anthropology---and faculty member in the Social Science Program at Lower Columbia College in Longview, Washington. I also hold adjunct positions at Eastern Oregon University and Mt. Hood Community College.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+#### About the course...
+ANTH 205 is a survey course that introduces students to biological anthropology, a field of study that addresses questions concerned with human variation, primarily within the context of biological (and biocultural) evolution.
