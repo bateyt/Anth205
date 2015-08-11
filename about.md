@@ -6,7 +6,9 @@ permalink: /about/
 
 #### About me...
 
-<img src="http://bateyt.github.io/Anth205/figs/ProfileImageHolder.jpg">
+<CENTER>
+  <img src="http://bateyt.github.io/Anth205/figs/ProfileImageHolder.jpg">
+</CENTER>
 
 Hello, my name is Trey Batey. I am a biological anthropologist---specializations in bioarchaeology and forensic anthropology---and faculty member in the Social Science Program at Lower Columbia College in Longview, Washington. I also hold adjunct positions at Eastern Oregon University and Mt. Hood Community College.
 
